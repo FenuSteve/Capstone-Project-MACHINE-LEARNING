@@ -8,7 +8,7 @@ To prepare a model for the prediction of car price
 ## Raw Data (Excel file ):
 https://drive.google.com/file/d/1a0bz7mc5lcHjwRrLrTRGYfwk5UwUn4Qo/view?usp=drive_link
 
-## JUPYTER NOTEBOOK Link for commplete model : 
+## JUPYTER NOTEBOOK Link for completed model : 
  http://localhost:8888/notebooks/Desktop/PythonProjects/CAPSTONE%20PROJECT%20MACHINE%20LEARNING.ipynb#Create-Dummy-Variables
 
 ### THE GIVEN DATA FOR THE PREDICTION OF CAR PRICE
