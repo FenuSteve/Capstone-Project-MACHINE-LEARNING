@@ -13,44 +13,54 @@ https://drive.google.com/file/d/1a0bz7mc5lcHjwRrLrTRGYfwk5UwUn4Qo/view?usp=drive
 
 ### THE GIVEN DATA FOR THE PREDICTION OF CAR PRICE
   
-  1) Brand Name
+1) car_ID
 
-  2) Model Name
-  
-  3) Year
+2) Symboling
 
-  4) Vehicle ID No
+3) CarName
 
-  5) Colour
+4)  Fueltype
 
-  6) Milleage
+5)  Aspiration
 
-  7) Fuel Type
+6)  Doornumber
 
-  8) Mode Of Transmission
+7)  Carbody
 
-  9) Engine Size
+8)  Drivewheel
 
-  10) Horsepower
+9)  Enginelocation
 
-  11) Seating Capacity
+10) Wheelbase
 
-  12) Body Type
+11) Carlength
 
-  13) Drive Type
+12) Carwidth
 
-  14) Fuel Effeciency
+13) Carheight
 
-  15) Price
+14) Curbweight
 
-  16) Purchase Date
+15) Enginetype
 
-  17) Owner Name
+16) Cylindernumber
 
-  18) Owner Age
+17) Enginesize
 
-  19) Owner Gender
+18) Fuelsystem
 
-  20) Insurance Company
+19) Boreratio
 
-  21) Insurance Policy Number
+20) Stroke
+
+21) Compressionratio
+
+22) Horsepower
+
+23) Peakrpm
+
+24) Citympg
+
+25) Highwaympg
+
+26) Price
